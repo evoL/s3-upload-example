@@ -9,7 +9,7 @@ This repo consists of:
 ## How to start
 
 First, setup the `.env` file using the provided sample.
-The, assuming you have Ruby, run the following commands.
+Then, assuming you have Ruby, run the following commands.
 
 ```
 bundle install
@@ -25,4 +25,5 @@ This will start the backend on localhost:4567. If this port doesn't work for you
 ## Footnote
 
 Licensed under the MIT license.
+
 Copyright 2015 Rafał Hirsz.

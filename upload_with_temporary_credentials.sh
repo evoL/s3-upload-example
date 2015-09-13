@@ -1,5 +1,5 @@
 #!/bin/bash
-curl -o authdata.json -d '' http://localhost:9292/authdata?temporary=1
+curl -o authdata.json -d '' http://localhost:4567/authdata?temporary=1
 
 curl -v \
   -F 'acl=public-read' \
